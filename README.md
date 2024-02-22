@@ -4,8 +4,8 @@
 
 ## Educación
 - UNIVERSIDAD DE LOS LAGOS
-Ingeniero en Administración de Empresas
-Graduado con distinción Máxima | Titulado en 2011
+  - Ingeniero en Administración de Empresas
+    - Graduado con distinción Máxima | Titulado en 2011
 
 - UNIVERSIDAD ANDRES BELLO
 Contador Auditor Carrera, ()
