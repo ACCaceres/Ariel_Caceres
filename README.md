@@ -2,7 +2,7 @@
 
 #### Skills Técnicos: Python, SQL,  Linux, Power Bi
 
-## Education
+## Educación
 - Ingeniero en Administración de Empresas | Universidad de los Lagos (_Titulado en 2011_)								       		
 - Contador Auditor	| Universidad Andrés Bello (_Finaliza 2025_)	 			        		
 - Diplomado Data Analyst | Universidad del Desarrollo (_Finalizado 2024_)
