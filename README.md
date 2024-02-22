@@ -3,7 +3,7 @@
 #### Skill Tecnicos: Python, Sql, Power BI, Linux
 
 ## Educación
-- UNIVERSIDAD DE LOS LAGOS
+- Universidad de los Lagos
   - Ingeniero en Administración de Empresas
     - Graduado con distinción Máxima | Titulado en 2011
 
