@@ -1,11 +1,12 @@
-# Data Scientist
+# Analista de Datos
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Skills Técnicos: Python, SQL,  Linux, Power Bi
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ingeniero en Administración de Empresas | Universidad de los Lagos (_Titulado en 2011_)								       		
+- Contador Auditor	| Universidad Andrés Bello (_Finaliza 2025_)	 			        		
+- Diplomado Data Analyst | Universidad del Desarrollo (_Finalizado 2024_)
+- Diplomado en Gesión Tributaria | Thomson Reuters (_Julio a Noviembre 2021_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
