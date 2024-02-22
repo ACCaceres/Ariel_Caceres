@@ -1,17 +1,18 @@
-# ArielCaceres.github.io
-
 # Analista de Datos
-### Educación
-#### UNIVERSIDAD DE LOS LAGOS	 Ingeniero en Administración de Empresas
+
+#### Skill Tecnicos: Python, Sql, Power BI, Linux
+
+## Educación
+- UNIVERSIDAD DE LOS LAGOS Ingeniero en Administración de Empresas
 Graduado con distinción Máxima | Titulado en 2011
 
-#### UNIVERSIDAD ANDRES BELLO Contador Auditor Carrera en curso, (Suspendida)
+- UNIVERSIDAD ANDRES BELLO Contador Auditor Carrera en curso, (Suspendida)
 Finaliza en diciembre 2025									
 
-#### UNIVERSIDAD DEL DESARROLLO Diplomado en Data Analyst
+- UNIVERSIDAD DEL DESARROLLO Diplomado en Data Analyst
 Beca Capital Humano CORFO | Finalizado Febrero 2024
 
-#### THOMSON REUTERS Diplomado en Gestión Tributaria 
+- THOMSON REUTERS Diplomado en Gestión Tributaria 
 Materias de impuesto y regímenes de tributación	| Julio-  Noviembre 2021
 	      
 ### Experiencia
