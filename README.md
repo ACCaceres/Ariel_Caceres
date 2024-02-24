@@ -1,6 +1,6 @@
 # Analista de Datos
 
-#### Skills Técnicos: Python, SQL,  Linux, Power Bi
+#### Skills Técnicos: Python, SQL,  Linux, Power Bi, Excel
 
 ## Educación
 
