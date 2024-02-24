@@ -4,10 +4,10 @@
 
 ## Educación
 
-+ **Ingeniero en Administración de Empresas**, Universidad de los Lagos (_Titulado en 2011_)								       		
-+ **Contador Auditor**,  Universidad Andrés Bello (_Finaliza 2025_)	 			        		
-+ **Diplomado Data Analyst**, Universidad del Desarrollo (_Febrero 2024_)
-+ **Diplomado en Gesión Tributaria**,  Thomson Reuters (_Julio a Noviembre 2021_)
++ **Ingeniero en Administración de Empresas**, _Universidad de los Lagos (_Titulado en 2011_)._							       		
++ **Contador Auditor**,  _Universidad Andrés Bello (_Finaliza 2025_)._ 			        		
++ **Diplomado Data Analyst**, _Universidad del Desarrollo (_Febrero 2024_)._
++ **Diplomado en Gesión Tributaria**,  _Thomson Reuters (_Julio a Noviembre 2021_)._
 
 ## Experiencia Laboral
 **Control Interno @ Patagonia Club SpA (_Octubre 2023 - Present_)**
