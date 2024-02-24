@@ -14,6 +14,7 @@
 - Controlar y mejorar Procesos Operativos, Internos, Comerciales, Financieros de la compañia
 - Utilizar ampliar e implementar herramientas tecnológicas para control.
 - Basar decisiones en base a Data de la Compañia.
+  
 **Testeo y Evaluacion CRM Odoo**
 **Testeo y Evalacion SuiteCRM**
 **Análisis de Costos y Gastos, Flujo de Caja**
