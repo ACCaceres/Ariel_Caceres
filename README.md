@@ -10,10 +10,14 @@
 + **Diplomado en Gesión Tributaria**,  Thomson Reuters (_Julio a Noviembre 2021_)
 
 ## Experiencia Laboral
-**CONTROL INTERNO @ Patagonia Club SpA (_Octubre 2023 - Present_)**
+**Control Interno @ Patagonia Club SpA (_Octubre 2023 - Present_)**
 - Controlar y mejorar Procesos Operativos, Internos, Comerciales, Financieros de la compañia
 - Utilizar ampliar e implementar herramientas tecnológicas para control.
-- Basar desciones en datos de la cia.
+- Basar decisiones en base a Data de la Compañia.
+### Testeo y Evaluacion CRM Odoo
+### Testeo y Evalacion SuiteCRM
+### Análisis de Costos y Gastos
+### Análisis de Segmentación de Clientes
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
