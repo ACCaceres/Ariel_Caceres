@@ -9,10 +9,11 @@
 + **Diplomado Data Analyst**, Universidad del Desarrollo (_Febrero 2024_)
 + **Diplomado en Gesión Tributaria**,  Thomson Reuters (_Julio a Noviembre 2021_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Experiencia Laboral
+**CONTROL INTERNO @ Patagonia Club SpA (_Octubre 2023 - Present_)**
+- Controlar y mejorar Procesos Operativos, Internos, Comerciales, Financieros de la compañia
+- Utilizar ampliar e implementar herramientas tecnológicas para control.
+- Basar desciones en datos de la cia.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
