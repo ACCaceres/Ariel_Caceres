@@ -11,16 +11,16 @@
 
 ## Experiencia Laboral
 **Control Interno @ Patagonia Club SpA (_Octubre 2023 - Present_)**
--Generar reportes BI, Analizar Data Histórica y actual Ventas (Looker Studio Overview).
--Control de Activos, adquisiciones, Fondos a Rendir, Fondos Fijos.
--Implementación de Políticas de control interno e implementar acciones para este fin.
--Analizar ventas a clientes, históricas y actuales e implementación de políticas para calidad de ventas.
--Seguimiento y control de stock de instrumento valorizados.
--Control del área cobranza, fondos transferencias depósitos efectivo, control de valores.
--Elaboración de reportes e indicadores para la Gerencia.
--Cierre comisiónal cálculo de remuneraciones, reestructuración de compensaciones.
--Seguimiento y elaboración trimestral de Flujo de caja.
--Analizar, medir, corregir y evaluar acciones del departamento de telemarketing.
+- Generar reportes BI, Analizar Data Histórica y actual Ventas (Looker Studio Overview).
+- Control de Activos, adquisiciones, Fondos a Rendir, Fondos Fijos.
+- Implementación de Políticas de control interno e implementar acciones para este fin.
+- Analizar ventas a clientes, históricas y actuales e implementación de políticas para calidad de ventas.
+- Seguimiento y control de stock de instrumento valorizados.
+- Control del área cobranza, fondos transferencias depósitos efectivo, control de valores.
+- Elaboración de reportes e indicadores para la Gerencia.
+- Cierre comisiónal cálculo de remuneraciones, reestructuración de compensaciones.
+- Seguimiento y elaboración trimestral de Flujo de caja.
+- Analizar, medir, corregir y evaluar acciones del departamento de telemarketing.
 Logros: Reducción de 17% costos operativos.
  Reducir tiempo de asignación de recursos en un 77%.
  Implementación de políticas de control, rendición de gastos y fondos fijo.
