@@ -33,12 +33,12 @@ Logros: Reducción de 17% costos operativos.
 **Análisis de Segmentación de Clientes**
 	            
 **Analista Comercial	@ CLM DIGITAL SOLUTIONS(junio 2023 – octubre 2023)**
-•	Revisar el portal de Mercado Público para detectar nuevas licitaciones que sean de importancia para CLM.
-•	Preparar y gestionar con otras áreas de CLM, la documentación administrativa, legal, comercial y técnica para participar en licitaciones, boletas de garantías, facturación y órdenes de compras.
-•	Ejecutar compras de productos, entrega en portal partner a cliente final
-•	Analizar ventas a clientes, históricas y actuales, contrastar ofertas, seguimiento del mercado y competencia.
-•	Elaboración de reportes e indicadores para la Gerencia.
-•	Logros: Incrementar en 78% la participación en mercado público.
+- Revisar el portal de Mercado Público para detectar nuevas licitaciones que sean de importancia para CLM.
+- Preparar y gestionar con otras áreas de CLM, la documentación administrativa, legal, comercial y técnica para participar en licitaciones, boletas de garantías, facturación y órdenes de compras.
+- Ejecutar compras de productos, entrega en portal partner a cliente final
+- Analizar ventas a clientes, históricas y actuales, contrastar ofertas, seguimiento del mercado y competencia.
+- Elaboración de reportes e indicadores para la Gerencia.
+Logros: Incrementar en 78% la participación en mercado público.
  Posicionar vía análisis cambio de estrategia y apertura a mercado a privado
  Determinar costos y márgenes adecuados de acuerdo a mercado.
  Analizar potencial del mercado Español en compras públicas.
