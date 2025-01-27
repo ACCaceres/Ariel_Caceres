@@ -39,6 +39,7 @@ Desarrollé un script en Python para automatizar la extracción y estructuració
 
 #### Otros Proyectos
 **Testeo y Evaluacion CRM Odoo**
+
 Implementación instalación testeo y prueba en VPS de Google GCP de Odoo 17 versión Community (Open Source) la evaluación buscaba una reducción de Costos en comparación con Hubspot esta solución reduce costos en un 90% anuales. (También se testeo como alternativas en la misma instancia VPS)
 
 
