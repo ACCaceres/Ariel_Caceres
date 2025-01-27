@@ -28,24 +28,17 @@ Logros: Reducción de 17% costos operativos.
 
 #### Proyectos Destacados
 **Automatización de Procesos de Facturación (iGlobal ERP)**
-
-Diseñé e implementé un script en Python que automatizó la emisión de más de 250 documentos electrónicos en iGlobal ERP, un sistema sin API de integración.
-Incorporé características como personalización de rutas de guardado, manejo de errores, y monitoreo en tiempo real para detener el proceso según la necesidad del usuario.
-Resultado: Reducción de 21 horas de trabajo manual a solo 1 hora de ejecución automatizada.
-- Herramientas Pyautogui, Pandas, Iglobal ERP
+Diseñé e implementé un script en Python que automatizó la emisión de más de 250 documentos electrónicos en iGlobal ERP, un sistema sin API de integración. Incorporé características como personalización de rutas de guardado, manejo de errores, y monitoreo en tiempo real para detener el proceso según la necesidad del usuario. Resultado: Reducción de 21 horas de trabajo manual a solo 1 hora de ejecución automatizada.
+•	Herramientas pyautogui, Pandas, IGlobal ERP
 
 **Automatización y Extracción de Datos**
-Desarrollé un script en Python para automatizar la extracción y estructuración de datos desde un sistema web Interno basado en tablas HTML. Implementé técnicas avanzadas de web scraping utilizando BeautifulSoup, logrando:
-Identificar y manejar estructuras dinámicas de datos en diferentes formatos (planes, cuponeras y casos sin contratos).
-Extraer información clave como datos personales, número de contratos, tipos de planes y detalles adicionales, normalizando los datos para análisis.
-Generar informes en formato CSV, optimizando el manejo de grandes volúmenes de fichas.
-Diseñar una solución robusta para manejar excepciones como clientes sin contratos y etiquetas variables.
-Sobre los datos extraidos se presento información relevante para la gerencia para la toma de desiciones de cara a las acciones comerciales 2025.
-- Herramientas utilizadas Jupyter, Pandas, BeatifulSoup, Teccnicas de Webscraping.
+Desarrollé un script en Python para automatizar la extracción y estructuración de datos desde un sistema web Interno basado en tablas HTML. Implementé técnicas avanzadas de web scraping utilizando BeautifulSoup, logrando identificar y manejar estructuras dinámicas de datos en diferentes formatos. Extraer información clave como datos personales, número de contratos, tipos de planes y detalles adicionales, normalizando los datos para análisis. Generar informes en formato CSV, optimizando el manejo de grandes volúmenes de fichas. Diseñar una solución robusta para manejar excepciones como clientes sin contratos y etiquetas variables. Sobre los datos extraídos se presentó información relevante para la gerencia para la toma de decisiones de cara a las acciones comerciales 2025.
+•	Herramientas utilizadas Jupyter, Pandas, BeatifulSoup, Técnicas de Webscraping.
 
 #### Otros Proyectos
 **Testeo y Evaluacion CRM Odoo**
-- Implementacion instalación testeo y prueda en VPS de Google GCP de Odoo 17 version Community (Open Source) la evaluación buscaba una reducción de Costos en comparación con Hubspot esta solución reduce costos en un 90% anuales.(Tambien se testeo como alternativas en la misma instancia VPS)
+•	Implementación instalación testeo y prueba en VPS de Google GCP de Odoo 17 versión Community (Open Source) la evaluación buscaba una reducción de Costos en comparación con Hubspot esta solución reduce costos en un 90% anuales. (También se testeo como alternativas en la misma instancia VPS)
+
 
 **Analista Comercial	@ CLM DIGITAL SOLUTIONS(junio 2023 – octubre 2023)**
 - Revisar el portal de Mercado Público para detectar nuevas licitaciones que sean de importancia para CLM.
