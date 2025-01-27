@@ -33,12 +33,13 @@ Diseñé e implementé un script en Python que automatizó la emisión de más d
 •	Herramientas pyautogui, Pandas, IGlobal ERP
 
 **Automatización y Extracción de Datos**
+
 Desarrollé un script en Python para automatizar la extracción y estructuración de datos desde un sistema web Interno basado en tablas HTML. Implementé técnicas avanzadas de web scraping utilizando BeautifulSoup, logrando identificar y manejar estructuras dinámicas de datos en diferentes formatos. Extraer información clave como datos personales, número de contratos, tipos de planes y detalles adicionales, normalizando los datos para análisis. Generar informes en formato CSV, optimizando el manejo de grandes volúmenes de fichas. Diseñar una solución robusta para manejar excepciones como clientes sin contratos y etiquetas variables. Sobre los datos extraídos se presentó información relevante para la gerencia para la toma de decisiones de cara a las acciones comerciales 2025.
 •	Herramientas utilizadas Jupyter, Pandas, BeatifulSoup, Técnicas de Webscraping.
 
 #### Otros Proyectos
 **Testeo y Evaluacion CRM Odoo**
-•	Implementación instalación testeo y prueba en VPS de Google GCP de Odoo 17 versión Community (Open Source) la evaluación buscaba una reducción de Costos en comparación con Hubspot esta solución reduce costos en un 90% anuales. (También se testeo como alternativas en la misma instancia VPS)
+Implementación instalación testeo y prueba en VPS de Google GCP de Odoo 17 versión Community (Open Source) la evaluación buscaba una reducción de Costos en comparación con Hubspot esta solución reduce costos en un 90% anuales. (También se testeo como alternativas en la misma instancia VPS)
 
 
 **Analista Comercial	@ CLM DIGITAL SOLUTIONS(junio 2023 – octubre 2023)**
