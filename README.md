@@ -41,11 +41,6 @@ Extraer información clave como datos personales, número de contratos, tipos de
 Generar informes en formato CSV, optimizando el manejo de grandes volúmenes de fichas.
 Diseñar una solución robusta para manejar excepciones como clientes sin contratos y etiquetas variables.
 Sobre los datos extraidos se presento información relevante para la gerencia para la toma de desiciones de cara a las acciones comerciales 2025.
-- Analisis historicos de requerimientos (2022 a 2024)
-- Composición de cartera de Clientes
-- Ranking de productos
-- Estimación de Pasivos
-- Tasa de uso real y ventas
 - Herramientas utilizadas Jupyter, Pandas, BeatifulSoup, Teccnicas de Webscraping.
 
 #### Otros Proyectos
