@@ -34,7 +34,8 @@ Diseñé e implementé un script en Python que automatizó la emisión de más d
 
 **Automatización y Extracción de Datos**
 
-Desarrollé un script en Python para automatizar la extracción y estructuración de datos desde un sistema web Interno basado en tablas HTML. Implementé técnicas avanzadas de web scraping utilizando BeautifulSoup, logrando identificar y manejar estructuras dinámicas de datos en diferentes formatos. Extraer información clave como datos personales, número de contratos, tipos de planes y detalles adicionales, normalizando los datos para análisis. Generar informes en formato CSV, optimizando el manejo de grandes volúmenes de fichas. Diseñar una solución robusta para manejar excepciones como clientes sin contratos y etiquetas variables. Sobre los datos extraídos se presentó información relevante para la gerencia para la toma de decisiones de cara a las acciones comerciales 2025.
+Desarrollé un script en Python para automatizar la extracción y estructuración de datos desde un sistema web Interno basado en tablas HTML, la problematica es el termino de asistencia, blouqeo a la bases de datos. Implementé técnicas avanzadas de web scraping utilizando BeautifulSoup, logrando identificar y manejar estructuras dinámicas de datos en diferentes formatos. Extraer información clave como datos personales, número de contratos, tipos de planes y detalles adicionales, normalizando los datos para análisis. Generar informes en formato CSV, optimizando el manejo de grandes volúmenes de fichas. Diseñar una solución robusta para manejar excepciones como clientes sin contratos y etiquetas variables. Sobre los datos extraídos se presentó información relevante para la gerencia para la toma de decisiones de cara a las acciones comerciales 2025.
+
 •	Herramientas utilizadas Jupyter, Pandas, BeatifulSoup, Técnicas de Webscraping.
 
 #### Otros Proyectos
