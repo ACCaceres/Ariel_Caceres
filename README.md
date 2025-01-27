@@ -26,7 +26,7 @@ Logros: Reducción de 17% costos operativos.
  Implementación de políticas de control, rendición de gastos y fondos fijo.
  Reducción en un 60% la demora de tiempos de respuesta de posventa y devoluciones.
 
-## Proyectos Destacados
+### Proyectos Destacados
 **Automatización de Procesos de Facturación (iGlobal ERP)**
 
 Diseñé e implementé un script en Python que automatizó la emisión de más de 250 documentos electrónicos en iGlobal ERP, un sistema sin API de integración.
@@ -34,12 +34,12 @@ Incorporé características como personalización de rutas de guardado, manejo d
 Resultado: Reducción de 21 horas de trabajo manual a solo 1 hora de ejecución automatizada.
 - Herramientas Pyautogui, Pandas, Iglobal ERP
 
-## Otros Proyectos
+### Otros Proyectos
 **Testeo y Evaluacion CRM Odoo**
 - Implementacion instalación testeo y prueda en VPS de Google GCP, creacion de la instancia implementacion de Odoo 17 version Community (Open Source) la evalaucion buscaba una reducción de Costos en comparación con Hubspot esta solución redujo costos en un 90% pasando de 5600USD a 400USD anuales.(Tambien se testeo como alternativa Suite CRM)
 
-**Análisis de Costos y Gastos, Flujo de Caja**
-**Análisis de Segmentación de Clientes**
+- **Análisis de Costos y Gastos, Flujo de Caja**
+- **Análisis de Segmentación de Clientes**
 	            
 **Analista Comercial	@ CLM DIGITAL SOLUTIONS(junio 2023 – octubre 2023)**
 - Revisar el portal de Mercado Público para detectar nuevas licitaciones que sean de importancia para CLM.
