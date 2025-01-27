@@ -34,7 +34,7 @@ Incorporé características como personalización de rutas de guardado, manejo d
 Resultado: Reducción de 21 horas de trabajo manual a solo 1 hora de ejecución automatizada.
 - Herramientas Pyautogui, Pandas, Iglobal ERP
 
-**Automatización y Extracción de Datos **
+**Automatización y Extracción de Datos**
 Desarrollé un script en Python para automatizar la extracción y estructuración de datos desde un sistema web Interno basado en tablas HTML. Implementé técnicas avanzadas de web scraping utilizando BeautifulSoup, logrando:
 Identificar y manejar estructuras dinámicas de datos en diferentes formatos (planes, cuponeras y casos sin contratos).
 Extraer información clave como datos personales, número de contratos, tipos de planes y detalles adicionales, normalizando los datos para análisis.
@@ -46,15 +46,12 @@ Sobre los datos extraidos se presento información relevante para la gerencia pa
 - Ranking de productos
 - Estimación de Pasivos
 - Tasa de uso real y ventas
-
+- Herramientas utilizadas Jupyter, Pandas, BeatifulSoup, Teccnicas de Webscraping.
 
 #### Otros Proyectos
 **Testeo y Evaluacion CRM Odoo**
 - Implementacion instalación testeo y prueda en VPS de Google GCP, creacion de la instancia implementacion de Odoo 17 version Community (Open Source) la evalaucion buscaba una reducción de Costos en comparación con Hubspot esta solución redujo costos en un 90% pasando de 5600USD a 400USD anuales.(Tambien se testeo como alternativa Suite CRM)
 
-- **Análisis de Costos y Gastos, Flujo de Caja**
-- **Análisis de Segmentación de Clientes**
-	            
 **Analista Comercial	@ CLM DIGITAL SOLUTIONS(junio 2023 – octubre 2023)**
 - Revisar el portal de Mercado Público para detectar nuevas licitaciones que sean de importancia para CLM.
 - Preparar y gestionar con otras áreas de CLM, la documentación administrativa, legal, comercial y técnica para participar en licitaciones, boletas de garantías, facturación y órdenes de compras.
