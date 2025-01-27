@@ -1,6 +1,6 @@
 # Analista de Datos
 
-#### Skills Técnicos: Python, SQL,  Linux, Power Bi, Excel
+#### Skills Técnicos: Python, SQL,  Linux, Power Bi, Excel, Looker BigQuery
 
 ## Educación
 
@@ -33,6 +33,20 @@ Diseñé e implementé un script en Python que automatizó la emisión de más d
 Incorporé características como personalización de rutas de guardado, manejo de errores, y monitoreo en tiempo real para detener el proceso según la necesidad del usuario.
 Resultado: Reducción de 21 horas de trabajo manual a solo 1 hora de ejecución automatizada.
 - Herramientas Pyautogui, Pandas, Iglobal ERP
+
+**Automatización y Extracción de Datos **
+Desarrollé un script en Python para automatizar la extracción y estructuración de datos desde un sistema web Interno basado en tablas HTML. Implementé técnicas avanzadas de web scraping utilizando BeautifulSoup, logrando:
+Identificar y manejar estructuras dinámicas de datos en diferentes formatos (planes, cuponeras y casos sin contratos).
+Extraer información clave como datos personales, número de contratos, tipos de planes y detalles adicionales, normalizando los datos para análisis.
+Generar informes en formato CSV, optimizando el manejo de grandes volúmenes de fichas.
+Diseñar una solución robusta para manejar excepciones como clientes sin contratos y etiquetas variables.
+Sobre los datos extraidos se presento información relevante para la gerencia para la toma de desiciones de cara a las acciones comerciales 2025.
+- Analisis historicos de requerimientos (2022 a 2024)
+- Composición de cartera de Clientes
+- Ranking de productos
+- Estimación de Pasivos
+- Tasa de uso real y ventas
+
 
 #### Otros Proyectos
 **Testeo y Evaluacion CRM Odoo**
