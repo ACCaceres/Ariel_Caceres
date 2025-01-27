@@ -5,7 +5,7 @@
 ## Educación
 
 + **Ingeniero en Administración de Empresas**, _Universidad de los Lagos (Titulado en 2011)._							       		
-+ **Contador Auditor**,  _Universidad Andrés Bello (Finaliza 2025)._ 			        		
++ **Contador Auditor**,  _Universidad Andrés Bello (Finaliza 2026)._ 			        		
 + **Diplomado Data Analyst**, _Universidad del Desarrollo (Finalizado Febrero 2024)._
 + **Diplomado en Gesión Tributaria**,  _Thomson Reuters (Julio a Noviembre 2021)._
 
