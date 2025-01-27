@@ -45,7 +45,7 @@ Sobre los datos extraidos se presento información relevante para la gerencia pa
 
 #### Otros Proyectos
 **Testeo y Evaluacion CRM Odoo**
-- Implementacion instalación testeo y prueda en VPS de Google GCP, creacion de la instancia implementacion de Odoo 17 version Community (Open Source) la evalaucion buscaba una reducción de Costos en comparación con Hubspot esta solución redujo costos en un 90% pasando de 5600USD a 400USD anuales.(Tambien se testeo como alternativa Suite CRM)
+- Implementacion instalación testeo y prueda en VPS de Google GCP de Odoo 17 version Community (Open Source) la evaluación buscaba una reducción de Costos en comparación con Hubspot esta solución reduce costos en un 90% anuales.(Tambien se testeo como alternativas en la misma instancia VPS)
 
 **Analista Comercial	@ CLM DIGITAL SOLUTIONS(junio 2023 – octubre 2023)**
 - Revisar el portal de Mercado Público para detectar nuevas licitaciones que sean de importancia para CLM.
