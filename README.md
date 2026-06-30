@@ -10,7 +10,56 @@
 + **Diplomado en Gesión Tributaria**,  _Thomson Reuters (Julio a Noviembre 2021)._
 
 ## Experiencia Laboral
-**Control Interno @ Patagonia Club SpA (_Octubre 2023 - Present_)**
+**Ejecutivo de Área Digital @ Coopeuch (_Mayo 2025 - _Presente_)**
+- Responsable de la gestión comercial y evaluación de operaciones en los canales digitales de la institución, asegurando la eficiencia del proceso y el cumplimiento de las políticas internas.
+- Evaluación de Riesgo Financiero: Análisis de perfiles de clientes y transacciones para la originación de productos, mitigando riesgos operativos y crediticios.
+- Gestión Operativa y Atención: Administración integral del ciclo de vida del cliente digital, asegurando la correcta ejecución de los procesos y una experiencia de usuario fluida bajo normativas vigentes.
+
+#### Proyectos Destacados
+### Motor de Automatización de Mailing Corporativo
+**Stack Tecnológico:** `VBA (Excel/Word/Outlook)` `OLEDB/SQL` `Windows API (kernel32)`
+
+**Contexto:**
+Operación dentro de un ecosistema corporativo cerrado, sujeto a estrictas políticas de seguridad informática y limitaciones de instalación de software de terceros.
+
+**Desafío:**
+Automatizar el envío masivo de resoluciones comerciales personalizadas, cuidando los niveles seguridad del sistema operativo (alertas de inyección SQL) y la inestabilidad de memoria RAM en el procesamiento por lotes masivos.
+
+**Solución Técnica:**
+* **Orquestación Centralizada:** Desarrollo de un motor controlador en Excel para gestionar la base de datos de clientes, coordinar plantillas dinámicas y auditar los envíos en tiempo real.
+* **Inyección SQL Dinámica:** Implementación de conexión de datos en caliente (`OpenDataSource`) para evadir las alertas de seguridad restrictivas de correspondencia, manteniendo la integridad del proceso sin violar los niveles de administrador.
+* **Control de Procesos a Nivel de Sistema:** Integración de la API de Windows (`Sleep` vía *kernel32*) para inyectar pausas dinámicas, garantizando una gestión eficiente del portapapeles y previniendo la saturación de memoria de Outlook durante la compilación de formatos enriquecidos.
+* **Trazabilidad:** Asignación automatizada de categorías nativas en Outlook para el control, clasificación y seguimiento visual inmediato de las bandejas de salida.
+
+**Impacto:**
+Eliminación del trabajo manual en el procesamiento de lotes de alto volumen. Mitigación del 100% de errores operativos por cruce de datos confidenciales y reducción del tiempo de ejecución a milisegundos por registro, optimizando drásticamente la productividad comercial.
+
+
+# Sistema Híbrido RPA (JS + VBA) para Entornos Corporativos.
+
+Este proyecto demuestra una arquitectura de automatización de procesos robóticos (RPA) diseñada para entornos *Air-gapped* o corporativos .
+
+## Problema de Negocio
+Extraer perfiles de clientes diarios desde un CRM web interno hacia una planilla local de Excel para cálculos de riesgo, requiriendo procesamiento manual tedioso y propenso a errores. Las herramientas tradicionales de automatización estaban bloqueadas por políticas de TI (Sandbox del navegador).
+
+## Arquitectura de Solución
+Se diseñó un modelo híbrido de **"Puente de Datos Asíncrono"** utilizando la carpeta de descargas del sistema operativo como zona neutral:
+
+1. **JavaScript Bookmarklet (El Interceptor):** Un script inyectado en el navegador vía marcadores que intercepta las respuestas de red (`fetch` y `XHR`) del CRM en segundo plano, extrae el ID del cliente y descarga silenciosamente el payload estructurado (JSON).
+2. **VBA Listener (El Motor Back-end):** Una macro de Excel operando en bucle pasivo que detecta los nuevos archivos JSON, extrae nodos específicos mediante parseo de cadenas nativo (sin dependencias XML), limpia datos científicos/flotantes, inyecta los enteros en la base de datos y destruye el archivo temporal.
+
+## Stack Tecnológico
+* **Frontend:** JavaScript Vanilla (ES6+), Interceptación de API REST.
+* **Backend:** Microsoft Excel, VBA (Uso estricto de funciones nativas de manipulación de memoria y strings).
+* **Entorno:** Microsoft Edge (Chromium), Windows OS.
+
+## Impacto
+* Reducción del tiempo de procesamiento manual en un **85%**.
+* Eliminación total de errores de transcripción en saldos financieros.
+* Cero instalación de software de terceros requerida.
+
+
+**Control Interno @ Patagonia Club SpA (_Octubre 2023 - _Abril 2025_)**
 - Generar reportes BI, Analizar Data Histórica y actual Ventas (Looker Studio Overview).
 - Control de Activos, adquisiciones, Fondos a Rendir, Fondos Fijos.
 - Implementación de Políticas de control interno e implementar acciones para este fin.
