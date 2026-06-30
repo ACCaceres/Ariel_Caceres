@@ -16,7 +16,7 @@
 - Gestión Operativa y Atención: Administración integral del ciclo de vida del cliente digital, asegurando la correcta ejecución de los procesos y una experiencia de usuario fluida bajo normativas vigentes.
 
 #### Proyectos Destacados
-**Motor de Automatización de Mailing Corporativo**
+**_Motor de Automatización de Mailing Corporativo_**
 **Stack Tecnológico:** 
 
 * **Backend:** Microsoft Excel, VBA (Uso estricto de funciones nativas de manipulación de memoria y strings) OS.VBA (Excel/Word/Outlook), OLEDB/SQL, Windows API (kernel32)
@@ -28,17 +28,17 @@ Operación dentro de un ecosistema corporativo cerrado, con alto nivel seguridad
 **Desafío:**
 Automatizar el envío masivo de resoluciones comerciales personalizadas, cuidando los niveles seguridad del sistema operativo (alertas de inyección SQL) y la inestabilidad de memoria RAM en el procesamiento por lotes masivos.
 
-**Solución Técnica:**
+ **Solución Técnica:**
 * **Orquestación Centralizada:** Desarrollo de un motor controlador en Excel para gestionar la base de datos de clientes, coordinar plantillas dinámicas y auditar los envíos en tiempo real.
 * **Inyección SQL Dinámica:** Implementación de conexión de datos en caliente (`OpenDataSource`) para evadir las alertas de seguridad restrictivas de correspondencia, manteniendo la integridad del proceso sin violar los niveles de administrador.
 * **Control de Procesos a Nivel de Sistema:** Integración de la API de Windows (`Sleep` vía *kernel32*) para inyectar pausas dinámicas, garantizando una gestión eficiente del portapapeles y previniendo la saturación de memoria de Outlook durante la compilación de formatos enriquecidos.
 * **Trazabilidad:** Asignación automatizada de categorías nativas en Outlook para el control, clasificación y seguimiento visual inmediato de las bandejas de salida.
 
-**Impacto:**
+ **Impacto:**
 Eliminación del trabajo manual en el procesamiento de lotes de alto volumen. Mitigación del 100% de errores operativos por cruce de datos confidenciales y reducción del tiempo de ejecución a milisegundos por registro, optimizando drásticamente la productividad comercial.
 
 
-**Sistema Híbrido RPA (JS + VBA) para Entornos Corporativos.**
+**_Sistema Híbrido RPA (JS + VBA) para Entornos Corporativos._**
 
 Este proyecto demuestra una arquitectura de automatización de procesos robóticos (RPA) diseñada para entornos *Air-gapped* o corporativos .
 
@@ -79,20 +79,20 @@ Logros: Reducción de 17% costos operativos.
  Reducción en un 60% la demora de tiempos de respuesta de posventa y devoluciones.
 
 #### Proyectos Destacados
-**Automatización de Procesos de Facturación (iGlobal ERP)**
+**_Automatización de Procesos de Facturación (iGlobal ERP)_**
 
 Diseñé e implementé un script en Python que automatizó la emisión de más de 250 documentos electrónicos en iGlobal ERP, un sistema sin API de integración. Incorporé características como personalización de rutas de guardado, manejo de errores, y monitoreo en tiempo real para detener el proceso según la necesidad del usuario. Resultado: Reducción de 21 horas de trabajo manual a solo 1 hora de ejecución automatizada.
 
 •	Herramientas pyautogui, Pandas, IGlobal ERP
 
-**Automatización y Extracción de Datos**
+**_Automatización y Extracción de Datos_**
 
 Desarrollé un script en Python para automatizar la extracción y estructuración de datos desde un sistema web Interno basado en tablas HTML, la problematica es el termino de asistencia, blouqeo a la bases de datos. Implementé técnicas avanzadas de web scraping utilizando BeautifulSoup, logrando identificar y manejar estructuras dinámicas de datos en diferentes formatos. Extraer información clave como datos personales, número de contratos, tipos de planes y detalles adicionales, normalizando los datos para análisis. Generar informes en formato CSV, optimizando el manejo de grandes volúmenes de fichas. Diseñar una solución robusta para manejar excepciones como clientes sin contratos y etiquetas variables. Sobre los datos extraídos se presentó información relevante para la gerencia para la toma de decisiones de cara a las acciones comerciales 2025.
 
 •	Herramientas utilizadas Jupyter, Pandas, BeatifulSoup, Técnicas de Webscraping.
 
 #### Otros Proyectos
-**Testeo y Evaluacion CRM Odoo**
+**_Testeo y Evaluacion CRM Odoo_**
 
 Implementación instalación testeo y prueba en VPS de Google GCP de Odoo 17 versión Community (Open Source) la evaluación buscaba una reducción de Costos en comparación con Hubspot esta solución reduce costos en un 90% anuales. (También se testeo como alternativas en la misma instancia VPS)
 
