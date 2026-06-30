@@ -10,7 +10,7 @@
 + **Diplomado en Gesión Tributaria**,  _Thomson Reuters (Julio a Noviembre 2021)._
 
 ## Experiencia Laboral
-**Ejecutivo de Área Digital @ Coopeuch (_Mayo 2025_ - _Presente_)**
+### **Ejecutivo de Área Digital @ Coopeuch (_Mayo 2025_ - _Presente_)**
 - Responsable de la gestión comercial y evaluación de operaciones en los canales digitales de la institución, asegurando la eficiencia del proceso y el cumplimiento de las políticas internas.
 - Evaluación de Riesgo Financiero: Análisis de perfiles de clientes y transacciones para la originación de productos, mitigando riesgos operativos y crediticios.
 - Gestión Operativa y Atención: Administración integral del ciclo de vida del cliente digital, asegurando la correcta ejecución de los procesos y una experiencia de usuario fluida bajo normativas vigentes.
@@ -62,7 +62,7 @@ Se diseñó un modelo híbrido de **"Puente de Datos Asíncrono"** utilizando la
 * Cero instalación de software de terceros requerida.
 
 
-**Control Interno @ Patagonia Club SpA (_Octubre 2023_ - _Abril 2025_)**
+### **Control Interno @ Patagonia Club SpA (_Octubre 2023_ - _Abril 2025_)**
 - Generar reportes BI, Analizar Data Histórica y actual Ventas (Looker Studio Overview).
 - Control de Activos, adquisiciones, Fondos a Rendir, Fondos Fijos.
 - Implementación de Políticas de control interno e implementar acciones para este fin.
@@ -97,7 +97,7 @@ Desarrollé un script en Python para automatizar la extracción y estructuració
 Implementación instalación testeo y prueba en VPS de Google GCP de Odoo 17 versión Community (Open Source) la evaluación buscaba una reducción de Costos en comparación con Hubspot esta solución reduce costos en un 90% anuales. (También se testeo como alternativas en la misma instancia VPS)
 
 
-**Analista Comercial	@ CLM DIGITAL SOLUTIONS (_junio 2023 – octubre 2023_)**
+### **Analista Comercial	@ CLM DIGITAL SOLUTIONS (_junio 2023 – octubre 2023_)**
 - Revisar el portal de Mercado Público para detectar nuevas licitaciones que sean de importancia para CLM.
 - Preparar y gestionar con otras áreas de CLM, la documentación administrativa, legal, comercial y técnica para participar en licitaciones, boletas de garantías, facturación y órdenes de compras.
 - Ejecutar compras de productos, entrega en portal partner a cliente final
