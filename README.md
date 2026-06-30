@@ -1,6 +1,6 @@
 # Analista de Datos
 
-#### Skills Técnicos: Python, SQL,  Linux, Power Bi, Excel, Looker BigQuery
+#### Skills Técnicos: Python, SQL,  Linux, Power Bi, Excel, Looker BigQuery, VBA,JS
 
 ## Educación
 
@@ -16,7 +16,7 @@
 - Gestión Operativa y Atención: Administración integral del ciclo de vida del cliente digital, asegurando la correcta ejecución de los procesos y una experiencia de usuario fluida bajo normativas vigentes.
 
 #### Proyectos Destacados
-### Motor de Automatización de Mailing Corporativo
+**Motor de Automatización de Mailing Corporativo**
 **Stack Tecnológico:** `VBA (Excel/Word/Outlook)` `OLEDB/SQL` `Windows API (kernel32)`
 
 **Contexto:**
@@ -35,25 +35,25 @@ Automatizar el envío masivo de resoluciones comerciales personalizadas, cuidand
 Eliminación del trabajo manual en el procesamiento de lotes de alto volumen. Mitigación del 100% de errores operativos por cruce de datos confidenciales y reducción del tiempo de ejecución a milisegundos por registro, optimizando drásticamente la productividad comercial.
 
 
-# Sistema Híbrido RPA (JS + VBA) para Entornos Corporativos.
+**Sistema Híbrido RPA (JS + VBA) para Entornos Corporativos.**
 
 Este proyecto demuestra una arquitectura de automatización de procesos robóticos (RPA) diseñada para entornos *Air-gapped* o corporativos .
 
-## Problema de Negocio
+**Problema de Negocio**
 Extraer perfiles de clientes diarios desde un CRM web interno hacia una planilla local de Excel para cálculos de riesgo, requiriendo procesamiento manual tedioso y propenso a errores. Las herramientas tradicionales de automatización estaban bloqueadas por políticas de TI (Sandbox del navegador).
 
-## Arquitectura de Solución
+**Arquitectura de Solución**
 Se diseñó un modelo híbrido de **"Puente de Datos Asíncrono"** utilizando la carpeta de descargas del sistema operativo como zona neutral:
 
 1. **JavaScript Bookmarklet (El Interceptor):** Un script inyectado en el navegador vía marcadores que intercepta las respuestas de red (`fetch` y `XHR`) del CRM en segundo plano, extrae el ID del cliente y descarga silenciosamente el payload estructurado (JSON).
 2. **VBA Listener (El Motor Back-end):** Una macro de Excel operando en bucle pasivo que detecta los nuevos archivos JSON, extrae nodos específicos mediante parseo de cadenas nativo (sin dependencias XML), limpia datos científicos/flotantes, inyecta los enteros en la base de datos y destruye el archivo temporal.
 
-## Stack Tecnológico
+**Stack Tecnológico**
 * **Frontend:** JavaScript Vanilla (ES6+), Interceptación de API REST.
 * **Backend:** Microsoft Excel, VBA (Uso estricto de funciones nativas de manipulación de memoria y strings).
 * **Entorno:** Microsoft Edge (Chromium), Windows OS.
 
-## Impacto
+**Impacto**
 * Reducción del tiempo de procesamiento manual en un **85%**.
 * Eliminación total de errores de transcripción en saldos financieros.
 * Cero instalación de software de terceros requerida.
