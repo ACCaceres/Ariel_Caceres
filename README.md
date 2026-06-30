@@ -20,7 +20,7 @@
 **Stack Tecnológico:** 
 
 * **Backend:** Microsoft Excel, VBA (Uso estricto de funciones nativas de manipulación de memoria y strings) OS.VBA (Excel/Word/Outlook), OLEDB/SQL, Windows API (kernel32)
-* **Entorno:** Microsoft Edge (Chromium), Windows OS.VBA (Excel/Word/Outlook)` `OLEDB/SQL` `Windows API (kernel32)
+* **Entorno:** Microsoft Edge (Chromium), Windows.
 
 **Contexto:**
 Operación dentro de un ecosistema corporativo cerrado, con alto nivel seguridad informática.
