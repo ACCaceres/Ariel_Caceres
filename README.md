@@ -62,7 +62,7 @@ Se diseñó un modelo híbrido de **"Puente de Datos Asíncrono"** utilizando la
 * Cero instalación de software de terceros requerida.
 
 
-**Control Interno @ Patagonia Club SpA (_Octubre 2023 - _Abril 2025_)**
+**Control Interno @ Patagonia Club SpA (_Octubre 2023_ - _Abril 2025_)**
 - Generar reportes BI, Analizar Data Histórica y actual Ventas (Looker Studio Overview).
 - Control de Activos, adquisiciones, Fondos a Rendir, Fondos Fijos.
 - Implementación de Políticas de control interno e implementar acciones para este fin.
