@@ -1,6 +1,6 @@
 # Analista de Datos
 
-#### Skills Técnicos: Python, SQL,  Linux, Power Bi, Excel, Looker BigQuery, VBA,JS
+#### Skills Técnicos: Python, SQL,  Linux, Power Bi, Excel, Looker BigQuery, VBA, JS, Jupyter
 
 ## Educación
 
@@ -10,17 +10,20 @@
 + **Diplomado en Gesión Tributaria**,  _Thomson Reuters (Julio a Noviembre 2021)._
 
 ## Experiencia Laboral
-**Ejecutivo de Área Digital @ Coopeuch (_Mayo 2025 - _Presente_)**
+**Ejecutivo de Área Digital @ Coopeuch (_Mayo 2025_ - _Presente_)**
 - Responsable de la gestión comercial y evaluación de operaciones en los canales digitales de la institución, asegurando la eficiencia del proceso y el cumplimiento de las políticas internas.
 - Evaluación de Riesgo Financiero: Análisis de perfiles de clientes y transacciones para la originación de productos, mitigando riesgos operativos y crediticios.
 - Gestión Operativa y Atención: Administración integral del ciclo de vida del cliente digital, asegurando la correcta ejecución de los procesos y una experiencia de usuario fluida bajo normativas vigentes.
 
 #### Proyectos Destacados
 **Motor de Automatización de Mailing Corporativo**
-**Stack Tecnológico:** `VBA (Excel/Word/Outlook)` `OLEDB/SQL` `Windows API (kernel32)`
+**Stack Tecnológico:** 
+
+* **Backend:** Microsoft Excel, VBA (Uso estricto de funciones nativas de manipulación de memoria y strings) OS.VBA (Excel/Word/Outlook), OLEDB/SQL, Windows API (kernel32)
+* **Entorno:** Microsoft Edge (Chromium), Windows OS.VBA (Excel/Word/Outlook)` `OLEDB/SQL` `Windows API (kernel32)
 
 **Contexto:**
-Operación dentro de un ecosistema corporativo cerrado, sujeto a estrictas políticas de seguridad informática y limitaciones de instalación de software de terceros.
+Operación dentro de un ecosistema corporativo cerrado, con alto nivel seguridad informática.
 
 **Desafío:**
 Automatizar el envío masivo de resoluciones comerciales personalizadas, cuidando los niveles seguridad del sistema operativo (alertas de inyección SQL) y la inestabilidad de memoria RAM en el procesamiento por lotes masivos.
@@ -40,7 +43,7 @@ Eliminación del trabajo manual en el procesamiento de lotes de alto volumen. Mi
 Este proyecto demuestra una arquitectura de automatización de procesos robóticos (RPA) diseñada para entornos *Air-gapped* o corporativos .
 
 **Problema de Negocio**
-Extraer perfiles de clientes diarios desde un CRM web interno hacia una planilla local de Excel para cálculos de riesgo, requiriendo procesamiento manual tedioso y propenso a errores. Las herramientas tradicionales de automatización estaban bloqueadas por políticas de TI (Sandbox del navegador).
+Extraer perfiles de clientes diarios desde un CRM web interno hacia una planilla local de Excel para cálculos de riesgo, requiriendo procesamiento manual tedioso y propenso a errores.
 
 **Arquitectura de Solución**
 Se diseñó un modelo híbrido de **"Puente de Datos Asíncrono"** utilizando la carpeta de descargas del sistema operativo como zona neutral:
