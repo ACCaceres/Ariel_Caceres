@@ -97,7 +97,7 @@ Desarrollé un script en Python para automatizar la extracción y estructuració
 Implementación instalación testeo y prueba en VPS de Google GCP de Odoo 17 versión Community (Open Source) la evaluación buscaba una reducción de Costos en comparación con Hubspot esta solución reduce costos en un 90% anuales. (También se testeo como alternativas en la misma instancia VPS)
 
 
-**Analista Comercial	@ CLM DIGITAL SOLUTIONS(junio 2023 – octubre 2023)**
+**Analista Comercial	@ CLM DIGITAL SOLUTIONS (_junio 2023 – octubre 2023_)**
 - Revisar el portal de Mercado Público para detectar nuevas licitaciones que sean de importancia para CLM.
 - Preparar y gestionar con otras áreas de CLM, la documentación administrativa, legal, comercial y técnica para participar en licitaciones, boletas de garantías, facturación y órdenes de compras.
 - Ejecutar compras de productos, entrega en portal partner a cliente final
